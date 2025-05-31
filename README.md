@@ -3,8 +3,8 @@ A simple React application built with Vite to play video files in the browser.
 Features
 
 Upload and play video files, including MKV.
-Minimal UI with Vite and React logos.
-Responsive design with custom CSS.
+Minimal UI with Vite and React logos(just for fun).
+Responsive design with custom CSS (no tailwind this time, sorry).
 
 Setup
 
