@@ -12,12 +12,12 @@ function App() {
     if (file) {
       const url = URL.createObjectURL(file);
       setVideoSrc(url);
-      document.title=file.name;
+      document.title = file.name;
     }
   };
 
   return (
-    <>
+    <> 
       <SpeedInsights />
       <div>
         <div className="card">
